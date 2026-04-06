@@ -19,3 +19,9 @@ After: clean structure
 
 I'm improving this tool — feel free to suggest features or report issues.# automatic-file-organizer
 Automatically organizes files by type and date
+
+🇪🇸 Español
+
+Organiza automáticamente tus archivos por tipo y fecha.
+
+Busco feedback para mejorar la herramienta.
