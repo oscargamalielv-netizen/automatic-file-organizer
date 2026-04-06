@@ -1,3 +1,5 @@
+## ⚡ Save time organizing your files automatically
+
 🧠 Automatic File Organizer
 
 Automatically organizes your files by type and date.
